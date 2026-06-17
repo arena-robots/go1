@@ -1,0 +1,6 @@
+3D meshes for the Unitree Go1 quadruped (go1_description).
+
+Source:   https://github.com/chvmp/unitree_ros  (MPL-2.0, see LICENSE)
+Original: https://github.com/unitreerobotics/unitree_ros  (c) Unitree Robotics
+
+Vendored unmodified into arena-robots for use with Arena-Rosnav.
